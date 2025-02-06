@@ -237,7 +237,7 @@ class DraggableMobileActions extends StatelessWidget {
                             color: Colors.white,
                             onPressed: onHidePressed,
                             splashRadius: kDesktopIconButtonSplashRadius,
-                            icon: const Icon(Icons.keyboard_arrow_down),
+                            icon: const Icon(Icons.hide_source),
                             iconSize: 24 * scale),
                       ],
                     ),
